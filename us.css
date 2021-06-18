@@ -1,0 +1,93 @@
+body{
+    background: url('download5.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
+
+.t{
+    position: absolute;
+    text-align: center;
+    bottom: 518px;
+    left: 102px;
+}
+#name{
+    position: absolute;
+    border: 2px;
+    border-radius: 16px;
+    appearance: none;
+    background-color: #f2f2f2;
+    padding: 12px;
+    width: 250px;
+    height: 9px;
+    left: 156px;
+    bottom: 455px;
+    outline: none;
+}
+#last{
+    position: absolute;
+    border: 2px;
+    border-radius: 16px;
+    appearance: none;
+    background-color: #f2f2f2;
+    padding: 12px;
+    width: 250px;
+    height: 9px;
+    left: 156px;
+    bottom: 400px;
+    outline: none;
+}
+#email{
+    position: absolute;
+    border: 2px;
+    border-radius: 16px;
+    appearance: none;
+    background-color: #f2f2f2;
+    padding: 12px;
+    width: 250px;
+    height: 9px;
+    left: 156px;
+    bottom: 336px;
+    outline: none;
+}
+#question{
+    position: absolute;
+    border: 2px;
+    border-radius: 16px;
+    appearance: none;
+    background-color: #f2f2f2;
+    padding: 12px;
+    width: 250px;
+    height: 123px; 
+    left: 156px;
+    bottom:  141px;
+    outline: none;
+    
+}
+.submit button{
+    /* font-family: 'Baloo Bhai 2', cursive; */
+    background-color: #f2f2f2;
+    border-radius: 28px;
+    cursor: pointer;
+    position: absolute;
+    padding: 13px;
+    margin: 9px;
+    bottom: 46px;
+    left: 145px;
+    width: 274px;
+}
+.contain {
+    display: flex;
+    border: 5px solid#000000;
+    color: black;
+    border-radius: 30px;
+    width: 574px;
+    height: 616px;
+    position: relative;
+    bottom: -19px;
+    left: 111px;
+    padding: 0px;
+    
+    
+}
