@@ -1,0 +1,28 @@
+#abc{
+    height: 347px;
+padding: 1px 0px;
+    
+}
+#abc::before{
+    height: 317px;
+}
+.head{
+  font-size: 40px;
+}
+/* #xyz{
+    margin: 34px;
+    flex-direction: column;
+    
+    }
+.text{
+    margin:-31px 8px;
+} */
+#xyz{
+    margin: 0px;
+    flex-direction: column;
+    
+    }
+.text{
+    margin:-10px 25px;
+    
+}
