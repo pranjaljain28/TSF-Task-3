@@ -1,0 +1,38 @@
+body{
+    background-color: aliceblue;
+}
+#abc{
+    display: flex;
+    
+    flex-direction: column;
+    height: 368px;
+    padding: 0px 200px;
+    justify-content: center;
+    align-items: center;
+    top: 0px;
+    left: 0px;
+}
+#abc::before{
+    content: "";
+    background:url("download1.jpg") no-repeat center center/cover;
+    position: absolute;
+    height: 47%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.75;
+    top: 0;
+    left: 0;
+}
+#xyz{
+margin: 34px;
+display: flex;
+
+}
+.head{
+font-size: 52px;
+padding-bottom: 40px;
+}
+.text{
+    
+    margin:-17px 66px;
+}
